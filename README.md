@@ -8,7 +8,7 @@
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Gsealy">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://gsealy.cn">my blog</a>.</li>
-<li>💬 Ping me about <strong>cryptography, security, and cloud stuff</strong>.</li>
+<li>💬 Contact me about <strong>cryptography, security, and cloud security stuff</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
