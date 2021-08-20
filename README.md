@@ -23,4 +23,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Gsealy&show_icons=true&count_private=true" alt="Gsealy" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Gsealy.Gsealy" alt="visitors"></p>
+<p><img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Gsealy.Gsealy" alt="visitors"></p>
