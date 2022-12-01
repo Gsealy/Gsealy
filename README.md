@@ -1,13 +1,13 @@
-<h2>Hey 👋, I'm <a href="https://gsealy.cn/">Gsealy</a></h2>
+<h2>Hey 👋, I'm <a href="https://gsealy.net/">Gsealy</a></h2>
 <p>I'm currently a information security researcher. I am working on cryptography, cloud security, msa, k8s, etc.</p>
-<p><a href="https://gsealy.cn"><img src="https://img.shields.io/badge/-gsealy.cn-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://gsealy.cn" alt="Website Badge"></a></p>
+<p><a href="https://gsealy.net"><img src="https://img.shields.io/badge/-gsealy.net-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://gsealy.net" alt="Website Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on image crypt &amp; k8s operator.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Gsealy">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://gsealy.cn">my blog</a>.</li>
+<li>📝 I regulary write articles on <a href="https://gsealy.net">my blog</a>.</li>
 <li>💬 Contact me about <strong>cryptography, security, and cloud security stuff</strong>.</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
